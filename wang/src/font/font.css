@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "思源黑体";
+    src: url("./SourceHanSansCN-Regular.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "compacta";
+    src: url("./Oswald-Regular.ttf");
+}
